@@ -2,8 +2,8 @@ package jgt;
 
 public class Vertex {
 
-	public double x;
-	public double y;
+	private double x;
+	private double y;
 
 	// Constructor
 	public Vertex(double x, double y) {
